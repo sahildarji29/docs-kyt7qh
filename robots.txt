@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-ung35x.livebuygg-2931910592.xyz/sitemap.xml
